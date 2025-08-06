@@ -1,0 +1,4 @@
+student_id,first_name,last_name,email,phone,date_of_birth,address,major,gpa,enrollment_date,courses,age
+STU001,Alice,Johnson,alice.johnson@university.edu,(555) 123-4567,2001-03-15,123 Campus Drive,Computer Science,3.8000000000000003,2025-08-06,"Data Structures, Algorithms, Database Systems",24
+STU002,Bob,Smith,bob.smith@university.edu,(555) 234-5678,2000-07-22,456 University Ave,Mathematics,3.6,2025-08-06,"Calculus I, Linear Algebra, Statistics",25
+STU003,Carol,Davis,carol.davis@university.edu,(555) 345-6789,2002-01-10,789 College Street,Physics,3.9,2025-08-06,"Classical Mechanics, Quantum Physics, Thermodynamics",23

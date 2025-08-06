@@ -1,0 +1,14 @@
+# Student Management System Requirements
+# No external dependencies required - uses only Python standard library
+
+# The system is built using only Python's built-in modules:
+# - json (for data persistence)
+# - os (for file operations and screen clearing)
+# - sys (for system operations)
+# - datetime (for date/time handling)
+# - typing (for type hints)
+# - re (for regular expressions)
+# - csv (for CSV import/export)
+
+# Python version requirement
+# Python >= 3.7 (for type hints and modern features)
