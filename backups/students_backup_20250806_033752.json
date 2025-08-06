@@ -1,0 +1,67 @@
+[
+  {
+    "student_id": "STU001",
+    "first_name": "Alice",
+    "last_name": "Johnson",
+    "email": "alice.johnson@university.edu",
+    "phone": "(555) 123-4567",
+    "date_of_birth": "2001-03-15",
+    "address": "123 Campus Drive",
+    "major": "Computer Science",
+    "gpa": 3.8000000000000003,
+    "enrollment_date": "2025-08-06",
+    "courses": [
+      "Data Structures",
+      "Algorithms",
+      "Database Systems"
+    ],
+    "grades": {
+      "Data Structures": 3.7,
+      "Algorithms": 3.8,
+      "Database Systems": 3.9
+    }
+  },
+  {
+    "student_id": "STU002",
+    "first_name": "Bob",
+    "last_name": "Smith",
+    "email": "bob.smith@university.edu",
+    "phone": "(555) 234-5678",
+    "date_of_birth": "2000-07-22",
+    "address": "456 University Ave",
+    "major": "Mathematics",
+    "gpa": 3.6,
+    "enrollment_date": "2025-08-06",
+    "courses": [
+      "Calculus I",
+      "Linear Algebra",
+      "Statistics"
+    ],
+    "grades": {
+      "Calculus I": 3.5,
+      "Linear Algebra": 3.7,
+      "Statistics": 3.6
+    }
+  },
+  {
+    "student_id": "STU003",
+    "first_name": "Carol",
+    "last_name": "Davis",
+    "email": "carol.davis@university.edu",
+    "phone": "(555) 345-6789",
+    "date_of_birth": "2002-01-10",
+    "address": "789 College Street",
+    "major": "Physics",
+    "gpa": 3.9,
+    "enrollment_date": "2025-08-06",
+    "courses": [
+      "Classical Mechanics",
+      "Quantum Physics",
+      "Thermodynamics"
+    ],
+    "grades": {
+      "Classical Mechanics": 4.0,
+      "Quantum Physics": 3.8
+    }
+  }
+]
